@@ -1,1 +1,3 @@
 # certificacionI
+
+# pre requisitos
